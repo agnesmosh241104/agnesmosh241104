@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Agnes Monica Sanjani Harefa - aka [agnesmosh241104] 👋
+## About me:
+- 🔭 I’m currently working as Student at Institute of Technology Del
+- 🌱 I’m currently learning C and Java languange
+- 👯 I’m looking to collaborate as Data Analyst 
+- 🤔 I’m looking for suggest for Automation and Data Analyst
+- 💬 Ask me about anything
+- 📫 How to reach me: harefaagnes73@gmail.com
 
-<!--
-**agnesmosh241104/agnesmosh241104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education:
 
-Here are some ideas to get you started:
+#### 1. [Institut Teknologi Del ](https://www.del.ac.id) | Bachelor of Information System | Sitoluama `2022-now`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ #### 2. [SMA ST. Thomas 3 Medan] (https://www.smathomas3.sch.id) | MIPA | Medan `2019-2021`
+   - Chief of Department of Spirituality
+
+## Work Experience:
