@@ -1,7 +1,7 @@
 # Hi there, I'm Agnes Monica Sanjani Harefa - aka [agnesmosh241104] 👋
 ## About me:
 - 🔭 I’m currently working as Student at Institute of Technology Del
-- 🌱 I’m currently learning C and Java languange
+- 🌱 I’m currently learning C and Java language
 - 👯 I’m looking to collaborate as Data Analyst 
 - 🤔 I’m looking for suggest for Automation and Data Analyst
 - 💬 Ask me about anything
